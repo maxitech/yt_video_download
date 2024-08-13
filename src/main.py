@@ -38,5 +38,6 @@ def progress_func(stream, chunk, bytes_remaining):
 def complete_func(stream, file_path):
     print(f'\nDer Download wurde erfolgreich abgeschlossen! \nDie Datei wurde gespeichert unter: {file_path}')
 
-# init
-download_video()
+
+if __name__ == '__main__':
+    download_video()
