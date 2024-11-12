@@ -1,3 +1,3 @@
 # yt_video_download
 
-## follow the instructions of the program and you will be fine
+## If you follow the instructions of the program you will be fine
